@@ -1,4 +1,4 @@
-strong zero
+strong zero 20 tölkkiä
 leipää
 kahvia
 perunoita
